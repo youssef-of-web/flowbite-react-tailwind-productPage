@@ -2,8 +2,8 @@
 
 First you need yarn installed in your local machine
 
-install dependencies with: yarn install
+Install dependencies with: yarn install
 
-visit localhost:3000
+Visit localhost:3000
 
 <img src="./src/assets/images/picture.png"/>
