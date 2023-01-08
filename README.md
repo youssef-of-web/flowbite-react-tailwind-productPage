@@ -1,7 +1,9 @@
 # Flowbite products page example
 
-# First you need yarn installed in your local machine
+First you need yarn installed in your local machine
 
-# install dependencies with: yarn install
+install dependencies with: yarn install
 
-# visit localhost:3000
+visit localhost:3000
+
+<img src="./src/assets/images/picture.png"/>
